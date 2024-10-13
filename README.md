@@ -3,3 +3,5 @@
 This is my course project for JavaEE during my undergraduate studies, refactored from another WinForm-based project.  
 这是我本科阶段JavaEE的课程设计，由另一个基于WinForm的项目重构而来。
 
+I'll send the files when I have some free time.  
+项目文件等我有空就传。
